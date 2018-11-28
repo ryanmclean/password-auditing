@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# csv, xlsx and txt docs that may contain sensitive information.
+hashes.txt
+passwords.txt
+.xlsx
+.csv
